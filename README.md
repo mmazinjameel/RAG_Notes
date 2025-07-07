@@ -1,1 +1,2 @@
-# RAG_Notes
+# Retrieval-Augmented Generation
+> *"These notes are more than papers and prompts — they’re a blueprint of augmentation. A journey through memory and retrieval, through questions that seek more than answers. Retrieval-Augmented Generation isn’t just about blending search with generation; it’s about teaching models to remember, to reach beyond their boundaries, to ground words in the truth of documents. This repository is my attempt to trace that architecture — to understand how models learn to ask, to recall, and to respond with relevance. To see how retrieval becomes reflection — and how generation becomes understanding."*  
